@@ -1,5 +1,7 @@
-# ignore object files
+# ignore file types
 *.o
+*.exe
+*.txt
 
 # ignore test files
 write_a_c_compiler/

@@ -2,8 +2,6 @@
     input file and generating
     Token Sequences, for a C program */
 
-// Adding a comment into main
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

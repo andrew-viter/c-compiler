@@ -1,0 +1,6 @@
+# ignore object files
+*.o
+
+# ignore test files
+write_a_c_compiler/
+
